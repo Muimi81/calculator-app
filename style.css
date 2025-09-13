@@ -52,3 +52,7 @@ form .display-area input {
 form input.equal-symbol {
     width: 135px;
 }
+
+form input.operator {
+    color: #33ffd8;
+}
